@@ -1,2 +1,2 @@
 # Git_Guanabara
- Curso Em Video
+ Curso Em Video de Git!
